@@ -16,7 +16,7 @@ Currently, 🤖 I'm a machine learning engineer with hands-on experience in Deep
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/khouloud_M](https://www.datascienceportfol.io/khouloud_M)
 
-- 📫 How to reach me:👉 **khouloud moussaoui99@gmail.com**
+- 📫 How to reach me:👉 **khouloudmoussaoui99@gmail.com**
   
 
 <h3 align="left">Connect with me:</h3>
